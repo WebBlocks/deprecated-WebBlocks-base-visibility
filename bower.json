@@ -1,0 +1,15 @@
+{
+  "name": "WebBlocks-base-visibility",
+  "version": "2.0.0",
+  "main": [
+    "Blockfile.rb"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "WebBlocks-base-responsive": "WebBlocks/WebBlocks-base-responsive"
+  }
+}

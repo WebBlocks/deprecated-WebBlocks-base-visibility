@@ -1,0 +1,5 @@
+.hide-media-query {
+    @media screen and (min-width: 0px) {
+        display: none;
+    }
+}

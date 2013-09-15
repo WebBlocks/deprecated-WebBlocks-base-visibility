@@ -1,0 +1,41 @@
+.hide-xxsmall {
+    @media screen and (max-width: $breakpoint-xxsmall) {
+        display: none;
+    }
+}
+
+.hide-xsmall {
+    @media screen and (max-width: $breakpoint-xsmall) {
+        display: none;
+    }
+}
+
+.hide-small {
+    @media screen and (max-width: $breakpoint-small) {
+        display: none;
+    }
+}
+
+.hide-medium-small {
+    @media screen and (max-width: $breakpoint-medium-small) {
+        display: none;
+    }
+}
+
+.hide-medium {
+    @media screen and (max-width: $breakpoint-medium) {
+        display: none;
+    }
+}
+
+.hide-medium-large {
+    @media screen and (max-width: $breakpoint-medium-large) {
+        display: none;
+    }
+}
+
+.hide-large {
+    @media screen and (max-width: $breakpoint-large) {
+        display: none;
+    }
+}
